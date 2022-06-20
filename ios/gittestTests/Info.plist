@@ -20,5 +20,46 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>NSAppleMusicUsageDescription</key>
+      <string>Give a permission to allow use your music</string>
+      <key>NSBluetoothAlwaysUsageDescription</key>
+      <string>Give a permission to allow connect with bluetooth</string>
+      <key>NSBluetoothPeripheralUsageDescription</key>
+      <string>Give a permission to allow connect with bluetooth<</string>
+      <key>NSCalendarsUsageDescription</key>
+      <string>Give a permission to allow access your calendar<</string>
+      <key>NSCameraUsageDescription</key>
+      <string>Give a permission to capture your photos and videos<</string>
+      <key>NSContactsUsageDescription</key>
+      <string>Give a permission to use your contact details</string>
+      <key>NSFaceIDUsageDescription</key>
+      <string>Give a permission to use your face Id<</string>
+      <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+      <string>Give a permission to allow access your location</string>
+      <key>NSLocationAlwaysUsageDescription</key>
+      <string>Give a permission to allow to use your location</string>
+      <key>NSLocationTemporaryUsageDescriptionDictionary</key>
+      <dict>
+        <key>YOUR-PURPOSE-KEY</key>
+        <string>YOUR TEXT</string>
+      </dict>
+      <key>NSLocationWhenInUseUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSMicrophoneUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSMotionUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSPhotoLibraryUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSPhotoLibraryAddUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSRemindersUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSSpeechRecognitionUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSSiriUsageDescription</key>
+      <string>YOUR TEXT</string>
+      <key>NSUserTrackingUsageDescription</key>
+      <string>YOUR TEXT</string>
 </dict>
 </plist>
